@@ -1,7 +1,7 @@
 {
   "base": {
     "name": "泸州市绩效考核系统",
-    "url": "",
+    "url": "http://192.168.1.6:8124/jxkh/index.html",
     "desc": "",
     "mobile":false,
     "scene":true
@@ -9,24 +9,24 @@
   "schedule": {
     "status": "开发中",    
     "actualStartTime": "2017-12-15",
-    "actualEndTime": "未定",
+    "actualEndTime": "2017-12-30",
     "estimatedStartTime": "2017-12-15",
     "estimatedEndTime": "2017-12-30",
-    "process":50,
+    "process":95,
     "delay": false,                     
     "technology":["vue","echarts"],
     "pages":17
   },
   "resources": {
     "demander": "九次方大数据",   
-    "type":"独立纵队",				       
+    "type":"合资公司",				       
     "manager":"崔智华",
     "charge": "王杰",
     "affiliate": ["冯红阳","杨勇冠","李鹏飞"],
     "average":2
   },
   "bug": {
-    "total": 0,            
+    "total": 20,            
     "resolved": 0,         
     "unsolved": 0           
   },
